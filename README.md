@@ -8,6 +8,4 @@
    ```
 3. **Notebook (EDA + modeling):** `jupyter notebook buyer_segmentation_analysis.ipynb`
 4. **Dashboard (live app):** `streamlit run streamlit_app.py`
-   - Opens at http://localhost:8501
-   - If clients.csv/properties.csv aren't found next to the script, use the sidebar file uploaders.
-   - Adjust the cluster count (k) live with the sidebar slider.
+"NOT YET deployed live . runs on the local host only.
